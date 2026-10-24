@@ -1,5 +1,5 @@
--- The magic school bus is the base game car with its own sprites and stats, so it keeps up with the car's sounds, triggers
--- and new fields between Factorio versions.
+-- The magic school bus is the base game car with its own sprites and stats, so it keeps up with the car's sounds,
+-- triggers and new fields between Factorio versions.
 
 local stripes = {}
 for i = 0, 10 do
